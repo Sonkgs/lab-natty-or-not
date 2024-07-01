@@ -1,4 +1,4 @@
-# Título do Projeto VSCode e Python Clandestinos
+# Projeto VSCode e Python Clandestinos
 
 ## 📒 Descrição
 Um vídeo explicando como programar em Python no VSCode sem ter a senha de ADM para instalar qualquer coisa
